@@ -1,0 +1,5 @@
+
+public class JavaClassForEx06 {
+	private int x; //"like this, maybe with \" or \\"
+	private String s;
+} 
